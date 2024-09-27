@@ -4,7 +4,7 @@ import acm.program.GraphicsProgram;
 
 // I'm annoyed
 // yasNalsmwlykuncgweygu
-
+// something else
 public class SimplePicture extends GraphicsProgram {
 	public static int SIZE = 700;
 	public static String NAME = "robot.png";
